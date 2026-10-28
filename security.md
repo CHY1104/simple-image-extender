@@ -213,7 +213,7 @@ covered in the Troubleshooting section.
 
 ---
 
-*simple-image-extender · Updated 2026-10-27 · Shared under the MIT License*
+*simple-image-extender · Updated 2026-10-28 · Shared under the MIT License*
 
 
-*Last updated: 2026-10-27*
+*Last updated: 2026-10-28*
