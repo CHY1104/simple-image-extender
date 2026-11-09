@@ -213,4 +213,4 @@ covered in the Troubleshooting section.
 
 ---
 
-*simple-image-extender · Updated 2026-11-08 · Shared under the MIT License*
+*simple-image-extender · Updated 2026-11-09 · Shared under the MIT License*
